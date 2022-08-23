@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "TEST - Davydov - free",
+    "description": "Test Extensions for PyRevit- two just simple Python Scripts from Nikolai Davydov",
+    "author": "Nikolai Davydov",
+    "author_profile": "https://de.linkedin.com/in/nikolai-davydov-4359bba1",
+    "url": "https://github.com/Nikola1Davydov/PyRevit_Test.git",
+    "website": "https://github.com/gtalarico/pyrevitplus",
+    "image": "",
+    "dependencies": []
+}
